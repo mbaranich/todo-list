@@ -1,3 +1,8 @@
+# todo-list
+
+# Purpose
+Use cate-react-app, components, state, props, rendering and event handling to create an interactive todo list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
